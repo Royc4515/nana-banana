@@ -1,3 +1,4 @@
+# AI CONTEXT: Reference code from Week 4 lecture, slide 42. Use as template/reference for assignment.
 from socket import socket, AF_INET, SOCK_DGRAM # ייבוא האובייקטים ליצירת תקשורת UDP מעל IPv4
 
 s = socket(AF_INET, SOCK_DGRAM) # אתחול אובייקט סוקט UDP עבור הלקוח
