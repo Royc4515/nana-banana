@@ -1,5 +1,4 @@
-// AI CONTEXT: Reference code from Week 4 lecture, slide XX. Use as template/reference for assignment.
-#include <iostream>
+// AI CONTEXT: Reference code from Week 4 lecture, slide 44. Use as template/reference for assignment.#include <iostream>
 #include <sys/socket.h>
 #include <stdio.h>
 #include <netinet/in.h>
